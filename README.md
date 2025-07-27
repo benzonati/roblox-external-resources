@@ -36,7 +36,8 @@ Resources to help you research Roblox game memory
 - [Nullbit External](https://github.com/Trinyxt/nullbit-external) - Trinyxt  
 - [Roblox External Base](https://github.com/warpedddd/Roblox-External-Base) - warpedddd  
 - [atomic-vomit Base](https://github.com/worldtoviewportpoint/atomic-vomit-Roblox-Base) - worldtoviewportpoint  
-
+- [shadow](https://github.com/thebluuu/shadow) - thebluuu
+  
 ## Drivers   
 - [RickOwens00](https://github.com/obamaruntz/RickOwens00/releases) - obamaruntz
 - [Roblox Driver](https://github.com/manualmapped/roblox-driver) - manualmapped
