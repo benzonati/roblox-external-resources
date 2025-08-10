@@ -25,8 +25,8 @@ Resources to help you research Roblox game memory
 - [KDMapper](https://github.com/TheCruZ/kdmapper) - *optional*, required if you want to make your external undetected. ***Use with a [driver](#drivers)***
   
 ## Offsets  
-- [offsets.hpp](https://offsets.ntgetwritewatch.workers.dev/offsets.hpp)  
-- [Hyperion External Offsets](https://yub-x.com/hyperion#external)  
+- [offsets.ntgetwritewatch.workers.dev](https://offsets.ntgetwritewatch.workers.dev/offsets.hpp)  
+- [Yub-X](https://yub-x.com/hyperion#external)  
 
 ## Video Tutorials  
 - [stackz Roblox External Tutorial (Playlist)](https://www.youtube.com/playlist?list=PLDs7kfJ0V0XIJcMKfHARlsdk06aScgJ83)  
