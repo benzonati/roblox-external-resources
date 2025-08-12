@@ -1,5 +1,5 @@
 # Roblox External Resources  
-Resources to help you research Roblox game memory  
+Resources to help you research Roblox game memory
 
 > [!NOTE]  
 > This information is provided for **educational and research purposes only**.  
@@ -33,9 +33,9 @@ Resources to help you research Roblox game memory
 - [Basic Roblox External Guide](https://www.youtube.com/watch?v=6eUJ_hrvOM4)  
 
 ## Open Sourced Externals  
-- [Nullbit External](https://github.com/Trinyxt/nullbit-external) - Trinyxt  
+- [Lucid External](https://github.com/Trinyxt/Lucid-external) - Trinyxt  
 - [Roblox External Base](https://github.com/warpedddd/Roblox-External-Base) - warpedddd  
-- [atomic-vomit Base](https://github.com/worldtoviewportpoint/atomic-vomit-Roblox-Base) - worldtoviewportpoint  
+- [atomic vomit Base](https://github.com/worldtoviewportpoint/atomic-vomit-Roblox-Base) - worldtoviewportpoint  
 - [shadow](https://github.com/thebluuu/shadow) - thebluuu
   
 ## Drivers   
@@ -49,5 +49,6 @@ Resources to help you research Roblox game memory
 > - Use as a **learning tool only**  
 >  
 > Recommended:  
-> - [Deepseek](https://chat.deepseek.com)  
+> - [Deepseek](https://chat.deepseek.com)
+> - [Grok](https://grok.com/chat)
 > - [Gemini](https://gemini.google.com)  
