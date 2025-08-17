@@ -3,7 +3,7 @@ Resources to help you research Roblox game memory
 
 > [!NOTE]  
 > This information is provided for **educational and research purposes only**.  
-> - We do not condone cheating in online games.  
+> - I do not condone cheating in online games.  
 > - Sources may change or become outdated. Verify safety yourself.  
 > **Use at your own risk.**  
 
