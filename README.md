@@ -15,6 +15,7 @@ Resources to help you research Roblox game memory
 - [Video Tutorials](#video-tutorials)  
 - [Open Sourced Externals](#open-sourced-externals)
 - [Drivers](#drivers)
+- [Mappers](#mappers)
 - [AI Assistance](#ai-assistance)  
 
 ---
@@ -33,14 +34,18 @@ Resources to help you research Roblox game memory
 - [Basic Roblox External Guide](https://www.youtube.com/watch?v=6eUJ_hrvOM4)  
 
 ## Open Sourced Externals  
-- [Lucid External](https://github.com/Trinyxt/Lucid-external) - Trinyxt  
+- [Skid External](https://github.com/kitodoescode/Skid-External) - kitodoescode  
 - [Roblox External Base](https://github.com/warpedddd/Roblox-External-Base) - warpedddd  
 - [atomic vomit Base](https://github.com/worldtoviewportpoint/atomic-vomit-Roblox-Base) - worldtoviewportpoint  
 - [shadow](https://github.com/thebluuu/shadow) - thebluuu
   
 ## Drivers   
+- [payson ioctl cheat driver](https://github.com/paysonism/payson-ioctl-cheat-driver) - payson
 - [RickOwens00](https://github.com/obamaruntz/RickOwens00/releases) - obamaruntz
 - [Roblox Driver](https://github.com/manualmapped/roblox-driver) - manualmapped
+
+## Mappers
+- [kdmapper](https://github.com/TheCruZ/kdmapper) - TheCruZ
 
 ## AI Assistance  
 > [!WARNING]  
